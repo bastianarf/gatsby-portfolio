@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
+  paragraphOne: "Hello, My name is Bastian Arfianto. You can call me Bastian. I am 21 years old. I am currently a final year student majoring in Informatics Engineering in one of university in Surabaya, Indonesia. I live in Surabaya, Indonesia. I am now looking for internship. If you're interested on me, you can contact all of my social media below.",
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
